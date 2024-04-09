@@ -8,6 +8,8 @@ export default function Home() {
       <Button variant="primaryOutline">Primary Outline</Button>
       <Button variant="secondary">Secondary</Button>
       <Button variant="secondaryOutline">Secondary Outline</Button>
+      <Button variant="danger">Danger</Button>
+      <Button variant="dangerOutline">Danger Outline</Button>
     </div>
   );
 }
