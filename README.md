@@ -4,4 +4,4 @@
 
 April, 2024.
 
-Full-stack Duolingo Clone project built by using Next JS 14, React, TypeScript, and Tailwind CSS.
+Full-stack Duolingo Clone project built by using Next JS 14, React, TypeScript, Tailwind CSS, Shadcn UI, and Drizzle ORM.
