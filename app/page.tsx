@@ -5,7 +5,7 @@ export default function Home() {
     <div className="p-4 space-y-4 flex flex-col max-w-[200px]">
       <Button>Default</Button>
       <Button variant="primary">Primary</Button>
-      <Button>Primary Outline</Button>
+      <Button variant="primaryOutline">Primary Outline</Button>
     </div>
   );
 }
